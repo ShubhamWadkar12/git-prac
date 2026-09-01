@@ -11,3 +11,5 @@ Currently learning DevOps and Platform Engineering:
 - Bash
 - Git
 - GitHub 
+
+Practicing Git like a DevOps Engineer
