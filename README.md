@@ -4,7 +4,7 @@ Working on feature branch
 Login feature in progress
  ## DevOps Learning
 
-Currently learning:
+Currently learning Platform Engineering:
 - Linux
 - Bash
 - Git
