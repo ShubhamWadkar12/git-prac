@@ -13,3 +13,5 @@ Currently learning DevOps and Platform Engineering:
 - GitHub 
 
 Practicing Git like a DevOps Engineer
+
+Another developer updated the project
