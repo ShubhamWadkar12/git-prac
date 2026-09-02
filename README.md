@@ -15,3 +15,8 @@ Currently learning DevOps and Platform Engineering:
 Practicing Git like a DevOps Engineer
 
 Another developer updated the project
+
+
+## Monitoring
+
+Learning Prometheus and Grafana for infrastructure monitoring.
